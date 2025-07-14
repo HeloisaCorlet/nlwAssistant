@@ -1,3 +1,4 @@
+Anotações feitas durante o curso NLW Agents - Trilha Iniciante da Rocketseat
 # HTML
 - HyperText
     - Textos puros, livros, revistas, jornais
@@ -6,11 +7,11 @@
 - Markup
     - Marcação
     - Tags: <a> Link </a>
-    - Atributos: <a href="https://rocketseat.com.br">
-    - Globais: id, class,...
+    - Atributos: <a href="">
+    - Globais: id, class, ...
 - Language
-    - linguagem
-    - Sintaxe: maneira de escrver
+    - Linguagem
+    - Sintaxe: maneira de escrever
 
 # HTTP
 
@@ -19,58 +20,58 @@
     - Transferência
 - Protocol
     - Protocolo
-    - Conjutno de regras
-- Methods HTTP (verbos): Get, Post, Patch/Put, Delete
+    - Conjunto de regras
+- Métodos HTTP (verbos): GET, POST, PATCH/PUT, DELETE
 - Headers (cabeçalho): Instruções/informações extras para cada chamada
 
 # URL
 - Uniform
     - Uniforme
-- Resouce
+- Resource
     - Recurso
 - Locator
-    - Localizados
-Econtrar um recurso (html, csss, js, pdf, png, jpg, mp4, mp3...) *Endereço
+    - Localizador
+Encontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3...) *Endereço
 
 # IP
 - Internet
     - Rede mundial de computadores
 - Protocol
-    - Conjunto de regras
- Endereço do computador
- rocketseat.com.br (domínio)
- 123.32.1.23 (ip)
+    - Conjunto de regras  
+Endereço do computador  
+rocketseat.com.br (domínio)  
+123.32.1.23 (IP)
 
- # DNS
- - Domain
+# DNS
+- Domain
     - Domínio
- - Name
+- Name
     - Nome
- - Server
+- Server
     - Servidor
 
-    # CSS
-    - Cascading
-        - Cascata
-        - Regras de escrita
-        - Hierarquia
-        - Especificidade
-    - Style
-        - Estilo
-    - Sheet
-        -Folha
-Arquivo que terá na sua sintaxe, declarações,propriedades e valores. A partir disso, o HTML é impactado visualmente.
+# CSS
+- Cascading
+    - Cascata
+    - Regras de escrita
+    - Hierarquia
+    - Especificidade
+- Style
+    - Estilo
+- Sheet
+    - Folha  
+Arquivo que terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
 
-- Declaração
-- Seletor
+- Declaração  
+- Seletor  
 - Propriedade e valor
 
 # JS
 - Linguagem de programação
 - Browser
-- Input -> Process -> Output
+- Input → Process → Output
 - Variáveis
-- Functio
+- Function
     - Agrupamento e reuso de código
     - Sequência lógica
     - Saída
@@ -78,16 +79,16 @@ Arquivo que terá na sua sintaxe, declarações,propriedades e valores. A partir
 - Mexer no navegador
 - Estrutura de dados
 - Estrutura de decisão
-- Algoritimo: sequência de passos lógica, de manerira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Algoritmo: sequência de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
 - Lógica (pensamento computacional)
 - Tipos de dados
     - Number
-    - String (" " , ' ' , ``)
+    - String (" ", ' ', ``)
     - Boolean: true | false
     - Objects
 
 # DOM
-- Documnet
+- Document
 - Object
 - Model
 
@@ -103,12 +104,12 @@ Arquivo que terá na sua sintaxe, declarações,propriedades e valores. A partir
 - Networking
 
 # LLM
-- Largue
+- Large
 - Language
-- Model
-- Gemini, OpenAI (chatGPT)...
+- Model  
+Gemini, OpenAI (ChatGPT)...
 
-# Engenharia de prompt
+# Engenharia de Prompt
 - One shot: uma única pergunta sem muito contexto
-- Few shot: é apresento exemplos do que se espera
-- Chain of thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+- Few shot: são apresentados exemplos do que se espera
+- Chain of thought: cadeia de pensamento para a IA responder gradativamente conforme a instrução.
